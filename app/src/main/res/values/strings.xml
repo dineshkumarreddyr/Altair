@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Altair</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_ID">Enter your UserID</string>
+    <string name="user_password">Password</string>
+    <string name="user_authenticate">Login</string>
+</resources>
